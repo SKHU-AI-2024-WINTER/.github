@@ -1,4 +1,14 @@
-## 구성원 정보
+## 리포지토리
+
+| 주소   | 설명      |
+|--------|-----------|
+| [ros2-ai-pipeline](https://github.com/SKHU-AI-2024-WINTER/ros2-ai-pipeline) | ROS2 기반 프로젝트 통합 |
+| [dev-pose-estimation](https://github.com/SKHU-AI-2024-WINTER/dev-pose-estimation) | 자세 추정 기술 개발 |
+| [dev-fall-detection](https://github.com/SKHU-AI-2024-WINTER/dev-fall-detection) | 쓰러짐 감지 기술 개발 |
+| [dev-tracking](https://github.com/SKHU-AI-2024-WINTER/dev-tracking) | 추적 기술 개발 |
+| [dev-monitoring-system](https://github.com/SKHU-AI-2024-WINTER/dev-monitoring-system) | 모니터링 시스템 개발 |
+
+## 구성원
 
 | 이름   | 역할      | 이메일                       | 깃허브 계정                                      |
 |--------|-----------|------------------------------|------------------------------------------------|
